@@ -8,7 +8,6 @@ I enjoy building interactive, meaningful projects that combine functionality wit
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
-
 <div align="center">
   <table>
     <tr>
@@ -29,6 +28,7 @@ I enjoy building interactive, meaningful projects that combine functionality wit
     </tr>
   </table>
 </div>
+
 
 ---
 

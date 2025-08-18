@@ -13,14 +13,14 @@ I enjoy building interactive, meaningful projects that combine functionality wit
     <tr>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=Nandkishorjadhav&show_icons=true&count_private=true&theme=radical&border_radius=12&cache_seconds=60" 
+          src="https://github-readme-stats.vercel.app/api?username=Nandkishorjadhav&show_icons=true&count_private=true&theme=tokyonight&border_radius=12&hide_border=false" 
           height="180" 
           alt="GitHub stats" 
         />
       </td>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandkishorjadhav&layout=compact&theme=radical&border_radius=12&cache_seconds=60" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandkishorjadhav&layout=compact&theme=tokyonight&border_radius=12&hide_border=false" 
           height="180" 
           alt="Top languages" 
         />
@@ -28,6 +28,7 @@ I enjoy building interactive, meaningful projects that combine functionality wit
     </tr>
   </table>
 </div>
+
 
 
 ---

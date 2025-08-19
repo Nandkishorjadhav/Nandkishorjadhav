@@ -1,13 +1,13 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
 <h2 align="center">Hi 👋, I’m Nandkishor Jadhav</h2>
 
 <p align="center">
 I’m a passionate developer exploring <b>full-stack web development</b>, <b>machine learning</b>, and <b>creative coding</b>.  
 I enjoy building interactive, meaningful projects that combine functionality with great design.
 </p>
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 ---
 
